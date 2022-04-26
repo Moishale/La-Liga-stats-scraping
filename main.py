@@ -1,6 +1,6 @@
 from utils import LaLiga
 
-year  = input("Enter the  Year of the season to show the table")
+year  = input("Enter the  Year of the season to show the table : ")
 
 test = LaLiga(year)
 test.get_table()
