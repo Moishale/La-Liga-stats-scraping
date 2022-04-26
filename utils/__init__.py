@@ -1,1 +1,1 @@
-from .Liga import LaLiga
+from .liga import LaLiga
