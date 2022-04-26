@@ -19,7 +19,7 @@ class LaLiga :
         for x in self.rows :
           a = str(x.text)
           b = { a.replace("\n" , "  ")}
-          for c in b : 
+          for c in b :
             print(c)
 
  
