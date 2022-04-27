@@ -1,5 +1,5 @@
 <img src="https://i.gifer.com/origin/66/6621966453e47f239b84e6bb2911560c.gif" width="200"/>
-# La Liga Scraper
+## La Liga Scraper
 Simple tool to scrape La Liga the Spanish league data.
  
  ## Installation
