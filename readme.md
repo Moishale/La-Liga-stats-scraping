@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/origin/66/6621966453e47f239b84e6bb2911560c.gif" width="128"/>
+<img src="https://i.gifer.com/origin/66/6621966453e47f239b84e6bb2911560c.gif" width="300"/>
 
 # La Liga Scraper
 Simple tool to scrape La Liga the Spanish league data
@@ -14,4 +14,4 @@ python main.py
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change 
 
- Please make sure to update tests asappropriate.
+ Please make sure to update tests appropriately.
