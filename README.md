@@ -7,7 +7,6 @@ Simple tool to scrape La Liga the spanish leauge data
 ```bash
 cd Desktop
 git clone https://github.com/Moishale/La-Liga-stats-scraping.git
-cd  La-Liga-stats-scraping
 python3 -m pip install -r requirments.txt
 python main.py
 ```
