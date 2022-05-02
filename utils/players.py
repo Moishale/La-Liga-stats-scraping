@@ -14,6 +14,3 @@ class Players :
           data = a.replace("\n" , " ")
           l = (data.replace("\xa0" , ""))
           print(l)
-
-
-
