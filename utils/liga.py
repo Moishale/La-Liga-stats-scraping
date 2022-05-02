@@ -21,7 +21,3 @@ class LaLiga :
           b = { a.replace("\n" , "  ")}
           for c in b :
             print(c)
-
- 
-
-         
