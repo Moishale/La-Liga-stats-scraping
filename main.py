@@ -19,8 +19,8 @@ def main() :
           """)
   choice = input("Enter any command : ")
   if choice == "!table" :
-    year  = input("Enter the  Year of the season to show the table : ")
-    app = App(year)
+    year  = int(input("Enter the  Year of the season to show the table : "))
+    app = App(year-1)
     app.get_table()
     app.plot_table()
   elif choice == "!score" :

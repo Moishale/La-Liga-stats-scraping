@@ -13,4 +13,4 @@ class Players :
           a = str(x.text)
           data = a.replace("\n" , " ")
           l = (data.replace("\xa0" , ""))
-          print(l)
+          print(f"{l} \t")

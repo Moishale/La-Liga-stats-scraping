@@ -15,9 +15,9 @@ class LaLiga :
         self.rows = row
         
     def plot_table(self) :
-        print(self.__title)
+        print(f"{self.__title}\t")
         for x in self.rows :
           a = str(x.text)
           b = { a.replace("\n" , "  ")}
           for c in b :
-            print(c)
+            print(f"{c}\t")
